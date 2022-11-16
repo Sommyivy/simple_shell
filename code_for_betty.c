@@ -1,7 +1,8 @@
 /**
-* main - entry point of program
-* Return : 0
-*/
+ * main - Entry point of program
+ *
+ * Return: 0
+ */
 #inlude < stdio.h >
 int main(void)
 {
